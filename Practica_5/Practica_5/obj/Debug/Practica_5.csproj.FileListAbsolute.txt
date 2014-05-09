@@ -1,0 +1,21 @@
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\bin\Debug\Practica_5.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\bin\Debug\Practica_5.pdb
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\obj\Debug\Practica_5.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\obj\Debug\Practica_5.MainForm.resources
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\obj\Debug\Practica_5.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\obj\Debug\Practica_5.exe
+C:\Users\Alumnos\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica_5\Practica_5\obj\Debug\Practica_5.pdb
+I:\Practica_5\Practica_5\bin\Debug\Practica_5.exe
+I:\Practica_5\Practica_5\bin\Debug\Practica_5.pdb
+I:\Practica_5\Practica_5\obj\Debug\Practica_5.csprojResolveAssemblyReference.cache
+I:\Practica_5\Practica_5\obj\Debug\Practica_5.MainForm.resources
+I:\Practica_5\Practica_5\obj\Debug\Practica_5.csproj.GenerateResource.Cache
+I:\Practica_5\Practica_5\obj\Debug\Practica_5.exe
+I:\Practica_5\Practica_5\obj\Debug\Practica_5.pdb
+F:\Practica_5\Practica_5\bin\Debug\Practica_5.exe
+F:\Practica_5\Practica_5\bin\Debug\Practica_5.pdb
+F:\Practica_5\Practica_5\obj\Debug\Practica_5.csprojResolveAssemblyReference.cache
+F:\Practica_5\Practica_5\obj\Debug\Practica_5.MainForm.resources
+F:\Practica_5\Practica_5\obj\Debug\Practica_5.csproj.GenerateResource.Cache
+F:\Practica_5\Practica_5\obj\Debug\Practica_5.exe
+F:\Practica_5\Practica_5\obj\Debug\Practica_5.pdb
